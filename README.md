@@ -24,6 +24,8 @@ Self-taught developer specializing in operations automation and system optimizat
 
 ### Have a project in mind? Let's work together!
 DM me!
+
 LinkedIn: Tiffany Ve 
+
 X: tiffaniniXD
 
