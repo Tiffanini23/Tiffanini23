@@ -3,7 +3,7 @@
 **Operations & Automation Specialist** | Building AI-augmented systems that scale
 
 ### About Me
-Self-taught developer specializing in operations automation and system optimization. I combine 10+ years of operations management experience with technical skills to build practical automation solutions.
+Self-taught developer specializing in operations automation and system optimization. I combine 11+ years of operations management experience with technical skills to build practical automation solutions.
 
 ### Current Focus
 - 🔧 Python automation & workflow optimization
