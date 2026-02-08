@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Tiffanini23
-- 👀 I’m interested in UI Design, Branding and Web Development
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on bite-sized, fun projects for practice
-- 📫 How to reach me @tiffaninixd on all platforms
+# Tiffany Ve.
 
-<!---
-Tiffanini23/Tiffanini23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Operations & Automation Specialist** | Building AI-augmented systems that scale
+
+### About Me
+Self-taught developer specializing in operations automation and system optimization. I combine 10+ years of operations management experience with technical skills to build practical automation solutions.
+
+###Current Focus
+- 🔧 Python automation & workflow optimization
+- 📊 Data analytics & business intelligence
+
+### Tech Stack
+**Languages:** Python, html, CSS 
+**Tools:** Make.com, Airtable, n8n, Google Workspace, Git  
+**Learning:** IT automation, data analysis, cloud services
+
+### Other skills 
+- UX/UI Design
+- Social Media marketing
+- Graphics 
+- Low-Code development
+
+### Have a project in mind? Let's work together!
+DM me!
+LinkedIn: Tiffany Ve 
+X: tiffaniniXD
+
