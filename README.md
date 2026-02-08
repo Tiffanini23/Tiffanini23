@@ -5,7 +5,7 @@
 ### About Me
 Self-taught developer specializing in operations automation and system optimization. I combine 10+ years of operations management experience with technical skills to build practical automation solutions.
 
-###Current Focus
+### Current Focus
 - 🔧 Python automation & workflow optimization
 - 📊 Data analytics & business intelligence
 
