@@ -10,7 +10,7 @@ Self-taught developer specializing in operations automation and system optimizat
 - 📊 Data analytics & business intelligence
 
 ### Tech Stack
-**Languages:** Python, html, CSS 
+**Languages:** Python, html
 
 **Tools:** Make.com, Airtable, n8n, Google Workspace, Git 
 
