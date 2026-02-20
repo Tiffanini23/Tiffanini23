@@ -10,7 +10,7 @@ Self-taught developer specializing in operations automation and system optimizat
 - 📊 Data analytics & business intelligence
 
 ### Tech Stack
-**Languages:** Python, html
+**Languages:** Python, linux
 
 **Tools:** Make.com, Airtable, n8n, Google Workspace, Git 
 
@@ -18,9 +18,9 @@ Self-taught developer specializing in operations automation and system optimizat
 
 ### Other skills 
 - UX/UI Design
-- Social Media marketing
-- Graphics 
-- Low-Code development
+- Digital marketing
+- Video content editing 
+- SEO Landing page development 
 
 ### Have a project in mind? Let's work together!
 DM me!
